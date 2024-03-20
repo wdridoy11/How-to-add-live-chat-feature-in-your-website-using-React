@@ -4,9 +4,10 @@
 Open your React project or create
 
 ### Step 2: 
-Open your terminal and install Enter this command
-command: npm i react-messenger-customer-chat
-
+Open your terminal and install<br/>
+```sh
+npm i react-messenger-customer-chat
+```
 ### Step 3: 
 Create one page like: LiveChat.jsx
 Past this code in your "LiveChat" page
