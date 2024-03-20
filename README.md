@@ -59,15 +59,20 @@ Go to your website and Reload, you will see messenger icon and you can chat
 ### Thanks everybody
 
 # Follow Me
-    <div>
+    <p>
         <a href="https://fb.com/wdridoy11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wdridoy11" height="30" width="40" /></a>
         <a href="https://twitter.com/wdridoy11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wdridoy11" height="30" width="40" /></a>
         <a href="https://instagram.com/wdridoy11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wdridoy11" height="30" width="40" /></a>
         <a href="https://linkedin.com/in/wdridoy11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wdridoy11" height="30" width="40" /></a>
         <a href="https://www.behance.net/wdridoy11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="wdridoy11" height="30" width="40" /></a>
         <a href="https://dribbble.com/wdridoy11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="wdridoy11" height="30" width="40" /></a>
-    </div>
+    </p>
 
+### Live link:
+https://livechat-1.netlify.app
 
+# Output
+<img src="./src/assets/output.png" />
 
+# Thanks everybody
 
