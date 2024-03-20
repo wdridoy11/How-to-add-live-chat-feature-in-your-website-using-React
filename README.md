@@ -29,16 +29,26 @@ const LiveChat = () => {
 
 export default LiveChat
 ```
-`Note: If you have any problem to find Facebook page ID, you can search google or YouTube "How to Find Facebook Page ID"`
+`Note: If you have any problem to find Facebook page ID and APP Id, you can search google or YouTube`
+`"How to Find Facebook Page Id"`
+`"How to create facebook app id"`
 
 ### Step 4:
+Link your "LiveChat page" in "App.jsx" page
+
+<img src="./src/assets/link.png" />
+
+### Step 5:
 Run this command:
 ```sh
 npm run build
 ```
 
-### Step 5:
+### Step 6:
 Deploy your website to your domain/Firebase or Netlify
 
-### Step 6:
+### Step 7:
 Copy your Website URL
+
+### Step 8:
+Go to your Facebook page>Settings>Advanced Messaging> Whitelisted domains option and add your website URL in input field and click add button 

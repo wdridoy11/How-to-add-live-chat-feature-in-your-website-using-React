@@ -2,6 +2,7 @@ import React from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
+import LiveChat from './LiveChat'
 
 function App() {
 
@@ -16,6 +17,9 @@ function App() {
         </a>
       </div>
       <h1>Welcome to my website</h1>
+      
+      <LiveChat />
+
     </>
   )
 }
