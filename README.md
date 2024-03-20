@@ -11,6 +11,7 @@ command: npm i react-messenger-customer-chat
 Create one page like: LiveChat.jsx
 Past this code in your "LiveChat" page
 
+```jsx
 import React from 'react'
 import MessengerCustomerChat from 'react-messenger-customer-chat';
 
@@ -26,3 +27,4 @@ const LiveChat = () => {
 }
 
 export default LiveChat
+```
