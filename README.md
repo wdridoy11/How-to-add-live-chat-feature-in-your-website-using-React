@@ -29,3 +29,16 @@ const LiveChat = () => {
 
 export default LiveChat
 ```
+`Note: If you have any problem to find Facebook page ID, you can search google or YouTube "How to Find Facebook Page ID"`
+
+### Step 4:
+Run this command:
+```sh
+npm run build
+```
+
+### Step 5:
+Deploy your website to your domain/Firebase or Netlify
+
+### Step 6:
+Copy your Website URL
